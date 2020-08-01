@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Heart Rate</string>
+    <string name="FirstName">Имя</string>
+    <string name="LastName">Фамилия</string>
+    <string name="TeamNumber">Номер</string>
+    <string name="GUID">ID</string>
+    <string name="SaveSettings">Сохранить</string>
+    <string name="UserSettings">com.stanislavdukhno.heartrate.UserSettings</string>
+    <string name="Settings">Профиль</string>
+    <string name="start">Start</string>
+    <string name="SportsmanID">ID спортсмена в базе данных</string>
+    <string name="CountDown">30</string>
+    <string name="SendToServer">Отправить</string>
+
+</resources>
